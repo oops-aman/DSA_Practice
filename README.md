@@ -7,4 +7,6 @@ This repository contains code of questions of DSA for practice
 * Maximum subarray using Kadane's Algorithm
 * Contains Duplicate
 * Chocolate Distribution Problem
-* 
+* Search an element in a sorted and pivoted array
+* Next permutation
+* Best time to buy and sell stock
